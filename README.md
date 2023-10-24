@@ -1,6 +1,6 @@
 <h3 align = "center"> Desenvolvedor Mobile - React Native </h3>
 
-<a href="https://play.google.com/store/apps/dev?id=872579189426475798"> <h4 align = "center">Alguns dos meus alicativos publicados (Clique aqui). </h4></a>
+<a href="https://play.google.com/store/apps/dev?id=872579189426475798"  target="blank"> <h4 align = "center">Alguns dos meus alicativos publicados (Clique aqui). </h4></a>
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=natanbarioni&label=Profile%20views&color=0e75b6&style=flat" alt = "natanbarioni" /> </p>
 
