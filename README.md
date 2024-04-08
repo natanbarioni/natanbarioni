@@ -1,5 +1,7 @@
 <h3 align = "center"> Desenvolvedor Mobile - React Native </h3>
 
+<h4> Com 5+ anos de experiência profissional, dediquei os ultimos 3+ anos ao Desenvolvimento Mobile com React Native. </h4>
+
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=natanbarioni&label=Profile%20views&color=0e75b6&style=flat" alt = "natanbarioni" /> </p>
 
 <h3 align = "left"> Alguns dos meus alicativos publicados: </h3>
